@@ -1,5 +1,5 @@
 #  Análise da taxa percentual de conversão de produto (teclado bluetooth) em nova página desenvolvida pelo time de UX.
-[NewDesign](https://www.kindpng.com/imgv/Thmhmxo_e-commerce-png-transparent-png/)
+![NewDesign](https://www.kindpng.com/imgv/Thmhmxo_e-commerce-png-transparent-png/)
 
 ## Eletronic House 
 
