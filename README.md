@@ -1,11 +1,11 @@
 #  Análise da taxa percentual de conversão de produto (teclado bluetooth) em nova página desenvolvida pelo time de UX.
 ![NewDesign](https://www.kindpng.com/picc/m/611-6116517_e-commerce-png-transparent-png.png)
 
-## Eletronic House 
+## *Eletronic House*
 
 ## Contextualização
 A Eletronic House é um comércio eletrônico (e-commerce) do ramo de informática que atende demandas tanto residenciais quanto de escritórios.
-Como objetivo, o product manager visa aumentar a taxa de conversão de um produto específico (teclado bluetooth) em 2% utilizando a nova página de vendas desenvolvida pelo seu time de UX.
+Como objetivo, o product manager visa aumentar a taxa de conversão de um produto específico (teclado bluetooth) em 4% (atingindo um patamar de 17%) utilizando a nova página de vendas desenvolvida pelo seu time de UX.
 Esse produto tem um valor de venda de $4.500,00 à vista ou em até 12x sem juros e teve uma taxa média de conversão no último ano de 13%.
 
 ## Necessidade
